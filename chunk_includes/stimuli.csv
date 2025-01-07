@@ -1,0 +1,2531 @@
+Group,Condition,Type,Sentence,Question,Answer
+A_control_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+A_control_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+A_control_list1,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+A_control_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+A_control_list1,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+A_control_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+A_control_list1,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+A_control_list1,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+A_control_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+A_control_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+A_control_list1,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+A_control_list1,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+A_control_list1,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+A_control_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+A_control_list1,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+A_control_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+A_control_list1,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+A_control_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+A_control_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+A_control_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+A_control_list1,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+A_control_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+A_control_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+A_control_list1,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+A_control_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+A_control_list1,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+A_control_list1,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+A_control_list1,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+A_control_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+A_control_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+A_control_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+A_control_list1,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+A_control_list1,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+A_control_list1,URC,URC5,The frazzled mother who was cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+A_control_list1,URC,URC34,The energetic kid who was kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+A_control_list1,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+A_control_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+A_control_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+A_control_list1,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+A_control_list1,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+A_control_list1,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+A_control_list1,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+A_control_list1,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+A_control_list1,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+A_control_list1,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+A_control_list1,URC,URC7,The international student who was left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+A_control_list1,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+A_control_list1,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+A_control_list1,URC,URC16,The evil genie who was served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+A_control_list1,URC,URC9,The experienced soldiers who were asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+A_control_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+A_control_list1,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+A_control_list1,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+A_control_list1,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+A_control_list1,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+A_control_list1,URC,URC8,The experienced waitress who was cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+A_control_list1,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+A_control_list1,URC,URC36,The young clerk who was handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+A_control_list1,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+A_control_list1,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+A_control_list1,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+A_control_list1,URC,URC33,The ferocious lions that were attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+A_control_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+A_control_list1,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+A_control_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+A_control_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+A_control_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+A_control_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+A_control_list1,URC,URC15,The hippie children who were rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+A_control_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+A_control_list1,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+A_control_list1,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+A_control_list1,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+A_control_list1,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+A_control_list1,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+A_control_list1,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+A_control_list1,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+A_control_list1,URC,URC2,The itchy cat that was scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+A_control_list1,URC,URC22,The comical teenager who was sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+A_control_list1,URC,URC25,The little girl who was sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+A_control_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+A_control_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+A_control_list2,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+A_control_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+A_control_list2,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+A_control_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+A_control_list2,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+A_control_list2,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+A_control_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+A_control_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+A_control_list2,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+A_control_list2,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+A_control_list2,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+A_control_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+A_control_list2,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+A_control_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+A_control_list2,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+A_control_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+A_control_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+A_control_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+A_control_list2,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+A_control_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+A_control_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+A_control_list2,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+A_control_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+A_control_list2,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+A_control_list2,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+A_control_list2,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+A_control_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+A_control_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+A_control_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+A_control_list2,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+A_control_list2,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+A_control_list2,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+A_control_list2,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+A_control_list2,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+A_control_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+A_control_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+A_control_list2,URC,URC38,The sleepy volunteers who were offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+A_control_list2,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+A_control_list2,URC,URC11,The six volunteers who were taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+A_control_list2,URC,URC4,The excited girl who was bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+A_control_list2,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+A_control_list2,URC,URC14,The playful teenager who was baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+A_control_list2,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+A_control_list2,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+A_control_list2,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+A_control_list2,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+A_control_list2,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+A_control_list2,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+A_control_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+A_control_list2,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+A_control_list2,URC,URC39,The frail woman who was refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+A_control_list2,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+A_control_list2,URC,URC1,The tired teacher who was brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+A_control_list2,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+A_control_list2,URC,URC6,The hospital patient who was bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+A_control_list2,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+A_control_list2,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+A_control_list2,URC,URC26,The young children who were stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+A_control_list2,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+A_control_list2,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+A_control_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+A_control_list2,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+A_control_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+A_control_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+A_control_list2,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+A_control_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+A_control_list2,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+A_control_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+A_control_list2,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+A_control_list2,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+A_control_list2,URC,URC18,The helpful librarian who was lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+A_control_list2,URC,URC35,The ailing mother who was prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+A_control_list2,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+A_control_list2,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+A_control_list2,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+A_control_list2,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+A_control_list2,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+A_control_list2,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+A_exp_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+A_exp_list1,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+A_exp_list1,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+A_exp_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+A_exp_list1,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+A_exp_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+A_exp_list1,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+A_exp_list1,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+A_exp_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+A_exp_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+A_exp_list1,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+A_exp_list1,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+A_exp_list1,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+A_exp_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+A_exp_list1,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+A_exp_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+A_exp_list1,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+A_exp_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+A_exp_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+A_exp_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+A_exp_list1,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+A_exp_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+A_exp_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+A_exp_list1,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+A_exp_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+A_exp_list1,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+A_exp_list1,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+A_exp_list1,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+A_exp_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+A_exp_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+A_exp_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+A_exp_list1,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+A_exp_list1,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+A_exp_list1,URC,URC5,The frazzled mother who was cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+A_exp_list1,URC,URC34,The energetic kid who was kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+A_exp_list1,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+A_exp_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+A_exp_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+A_exp_list1,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+A_exp_list1,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+A_exp_list1,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+A_exp_list1,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+A_exp_list1,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+A_exp_list1,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+A_exp_list1,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+A_exp_list1,URC,URC7,The international student who was left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+A_exp_list1,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+A_exp_list1,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+A_exp_list1,URC,URC16,The evil genie who was served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+A_exp_list1,URC,URC9,The experienced soldiers who were asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+A_exp_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+A_exp_list1,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+A_exp_list1,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+A_exp_list1,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+A_exp_list1,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+A_exp_list1,URC,URC8,The experienced waitress who was cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+A_exp_list1,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+A_exp_list1,URC,URC36,The young clerk who was handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+A_exp_list1,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+A_exp_list1,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+A_exp_list1,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+A_exp_list1,URC,URC33,The ferocious lions that were attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+A_exp_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+A_exp_list1,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+A_exp_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+A_exp_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+A_exp_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+A_exp_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+A_exp_list1,URC,URC15,The hippie children who were rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+A_exp_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+A_exp_list1,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+A_exp_list1,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+A_exp_list1,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+A_exp_list1,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+A_exp_list1,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+A_exp_list1,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+A_exp_list1,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+A_exp_list1,URC,URC2,The itchy cat that was scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+A_exp_list1,URC,URC22,The comical teenager who was sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+A_exp_list1,URC,URC25,The little girl who was sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+A_exp_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+A_exp_list2,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+A_exp_list2,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+A_exp_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+A_exp_list2,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+A_exp_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+A_exp_list2,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+A_exp_list2,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+A_exp_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+A_exp_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+A_exp_list2,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+A_exp_list2,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+A_exp_list2,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+A_exp_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+A_exp_list2,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+A_exp_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+A_exp_list2,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+A_exp_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+A_exp_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+A_exp_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+A_exp_list2,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+A_exp_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+A_exp_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+A_exp_list2,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+A_exp_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+A_exp_list2,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+A_exp_list2,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+A_exp_list2,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+A_exp_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+A_exp_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+A_exp_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+A_exp_list2,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+A_exp_list2,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+A_exp_list2,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+A_exp_list2,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+A_exp_list2,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+A_exp_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+A_exp_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+A_exp_list2,URC,URC38,The sleepy volunteers who were offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+A_exp_list2,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+A_exp_list2,URC,URC11,The six volunteers who were taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+A_exp_list2,URC,URC4,The excited girl who was bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+A_exp_list2,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+A_exp_list2,URC,URC14,The playful teenager who was baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+A_exp_list2,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+A_exp_list2,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+A_exp_list2,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+A_exp_list2,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+A_exp_list2,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+A_exp_list2,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+A_exp_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+A_exp_list2,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+A_exp_list2,URC,URC39,The frail woman who was refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+A_exp_list2,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+A_exp_list2,URC,URC1,The tired teacher who was brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+A_exp_list2,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+A_exp_list2,URC,URC6,The hospital patient who was bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+A_exp_list2,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+A_exp_list2,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+A_exp_list2,URC,URC26,The young children who were stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+A_exp_list2,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+A_exp_list2,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+A_exp_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+A_exp_list2,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+A_exp_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+A_exp_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+A_exp_list2,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+A_exp_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+A_exp_list2,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+A_exp_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+A_exp_list2,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+A_exp_list2,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+A_exp_list2,URC,URC18,The helpful librarian who was lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+A_exp_list2,URC,URC35,The ailing mother who was prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+A_exp_list2,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+A_exp_list2,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+A_exp_list2,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+A_exp_list2,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+A_exp_list2,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+A_exp_list2,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+B_control_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+B_control_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+B_control_list1,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+B_control_list1,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+B_control_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+B_control_list1,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+B_control_list1,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+B_control_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+B_control_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+B_control_list1,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+B_control_list1,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+B_control_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+B_control_list1,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+B_control_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+B_control_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+B_control_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+B_control_list1,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+B_control_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+B_control_list1,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+B_control_list1,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+B_control_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+B_control_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+B_control_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+B_control_list1,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+B_control_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+B_control_list1,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+B_control_list1,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+B_control_list1,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+B_control_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+B_control_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+B_control_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+B_control_list1,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+B_control_list1,URC,URC27,The bearded man who was shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+B_control_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+B_control_list1,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+B_control_list1,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+B_control_list1,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+B_control_list1,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+B_control_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+B_control_list1,URC,URC19,The skilled player who was passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+B_control_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+B_control_list1,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+B_control_list1,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+B_control_list1,URC,URC13,The skeptical editor who was read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+B_control_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+B_control_list1,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+B_control_list1,URC,URC40,The avid reader who was suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+B_control_list1,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+B_control_list1,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+B_control_list1,URC,URC39,The frail woman who was refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+B_control_list1,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+B_control_list1,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+B_control_list1,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+B_control_list1,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+B_control_list1,URC,URC1,The tired teacher who was brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+B_control_list1,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+B_control_list1,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+B_control_list1,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+B_control_list1,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+B_control_list1,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+B_control_list1,URC,URC6,The hospital patient who was bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+B_control_list1,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+B_control_list1,URC,URC26,The young children who were stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+B_control_list1,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+B_control_list1,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+B_control_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+B_control_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+B_control_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+B_control_list1,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+B_control_list1,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+B_control_list1,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+B_control_list1,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+B_control_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+B_control_list1,URC,URC18,The helpful librarian who was lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+B_control_list1,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+B_control_list1,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+B_control_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+B_control_list1,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+B_control_list1,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+B_control_list1,URC,URC35,The ailing mother who was prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+B_control_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+B_control_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+B_control_list2,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+B_control_list2,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+B_control_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+B_control_list2,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+B_control_list2,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+B_control_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+B_control_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+B_control_list2,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+B_control_list2,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+B_control_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+B_control_list2,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+B_control_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+B_control_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+B_control_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+B_control_list2,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+B_control_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+B_control_list2,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+B_control_list2,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+B_control_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+B_control_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+B_control_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+B_control_list2,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+B_control_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+B_control_list2,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+B_control_list2,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+B_control_list2,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+B_control_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+B_control_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+B_control_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+B_control_list2,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+B_control_list2,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+B_control_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+B_control_list2,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+B_control_list2,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+B_control_list2,URC,URC4,The excited girl who was bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+B_control_list2,URC,URC14,The playful teenager who was baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+B_control_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+B_control_list2,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+B_control_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+B_control_list2,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+B_control_list2,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+B_control_list2,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+B_control_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+B_control_list2,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+B_control_list2,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+B_control_list2,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+B_control_list2,URC,URC38,The sleepy volunteers who were offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+B_control_list2,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+B_control_list2,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+B_control_list2,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+B_control_list2,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+B_control_list2,URC,URC11,The six volunteers who were taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+B_control_list2,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+B_control_list2,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+B_control_list2,URC,URC9,The experienced soldiers who were asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+B_control_list2,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+B_control_list2,URC,URC8,The experienced waitress who was cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+B_control_list2,URC,URC36,The young clerk who was handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+B_control_list2,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+B_control_list2,URC,URC33,The ferocious lions that were attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+B_control_list2,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+B_control_list2,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+B_control_list2,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+B_control_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+B_control_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+B_control_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+B_control_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+B_control_list2,URC,URC15,The hippie children who were rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+B_control_list2,URC,URC2,The itchy cat that was scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+B_control_list2,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+B_control_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+B_control_list2,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+B_control_list2,URC,URC22,The comical teenager who was sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+B_control_list2,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+B_control_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+B_control_list2,URC,URC25,The little girl who was sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+B_control_list2,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+B_control_list2,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+B_exp_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+B_exp_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+B_exp_list1,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+B_exp_list1,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+B_exp_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+B_exp_list1,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+B_exp_list1,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+B_exp_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+B_exp_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+B_exp_list1,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+B_exp_list1,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+B_exp_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+B_exp_list1,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+B_exp_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+B_exp_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+B_exp_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+B_exp_list1,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+B_exp_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+B_exp_list1,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+B_exp_list1,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+B_exp_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+B_exp_list1,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+B_exp_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+B_exp_list1,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+B_exp_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+B_exp_list1,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+B_exp_list1,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+B_exp_list1,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+B_exp_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+B_exp_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+B_exp_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+B_exp_list1,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+B_exp_list1,URC,URC27,The bearded man who was shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+B_exp_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+B_exp_list1,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+B_exp_list1,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+B_exp_list1,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+B_exp_list1,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+B_exp_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+B_exp_list1,URC,URC19,The skilled player who was passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+B_exp_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+B_exp_list1,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+B_exp_list1,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+B_exp_list1,URC,URC13,The skeptical editor who was read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+B_exp_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+B_exp_list1,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+B_exp_list1,URC,URC40,The avid reader who was suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+B_exp_list1,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+B_exp_list1,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+B_exp_list1,URC,URC39,The frail woman who was refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+B_exp_list1,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+B_exp_list1,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+B_exp_list1,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+B_exp_list1,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+B_exp_list1,URC,URC1,The tired teacher who was brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+B_exp_list1,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+B_exp_list1,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+B_exp_list1,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+B_exp_list1,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+B_exp_list1,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+B_exp_list1,URC,URC6,The hospital patient who was bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+B_exp_list1,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+B_exp_list1,URC,URC26,The young children who were stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+B_exp_list1,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+B_exp_list1,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+B_exp_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+B_exp_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+B_exp_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+B_exp_list1,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+B_exp_list1,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+B_exp_list1,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+B_exp_list1,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+B_exp_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+B_exp_list1,URC,URC18,The helpful librarian who was lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+B_exp_list1,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+B_exp_list1,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+B_exp_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+B_exp_list1,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+B_exp_list1,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+B_exp_list1,URC,URC35,The ailing mother who was prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+B_exp_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+B_exp_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+B_exp_list2,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+B_exp_list2,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+B_exp_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+B_exp_list2,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+B_exp_list2,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+B_exp_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+B_exp_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+B_exp_list2,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+B_exp_list2,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+B_exp_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+B_exp_list2,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+B_exp_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+B_exp_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+B_exp_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+B_exp_list2,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+B_exp_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+B_exp_list2,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+B_exp_list2,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+B_exp_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+B_exp_list2,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+B_exp_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+B_exp_list2,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+B_exp_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+B_exp_list2,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+B_exp_list2,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+B_exp_list2,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+B_exp_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+B_exp_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+B_exp_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+B_exp_list2,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+B_exp_list2,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+B_exp_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+B_exp_list2,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+B_exp_list2,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+B_exp_list2,URC,URC4,The excited girl who was bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+B_exp_list2,URC,URC14,The playful teenager who was baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+B_exp_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+B_exp_list2,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+B_exp_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+B_exp_list2,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+B_exp_list2,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+B_exp_list2,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+B_exp_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+B_exp_list2,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+B_exp_list2,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+B_exp_list2,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+B_exp_list2,URC,URC38,The sleepy volunteers who were offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+B_exp_list2,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+B_exp_list2,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+B_exp_list2,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+B_exp_list2,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+B_exp_list2,URC,URC11,The six volunteers who were taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+B_exp_list2,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+B_exp_list2,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+B_exp_list2,URC,URC9,The experienced soldiers who were asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+B_exp_list2,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+B_exp_list2,URC,URC8,The experienced waitress who was cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+B_exp_list2,URC,URC36,The young clerk who was handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+B_exp_list2,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+B_exp_list2,URC,URC33,The ferocious lions that were attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+B_exp_list2,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+B_exp_list2,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+B_exp_list2,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+B_exp_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+B_exp_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+B_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+B_exp_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+B_exp_list2,URC,URC15,The hippie children who were rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+B_exp_list2,URC,URC2,The itchy cat that was scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+B_exp_list2,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+B_exp_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+B_exp_list2,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+B_exp_list2,URC,URC22,The comical teenager who was sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+B_exp_list2,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+B_exp_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+B_exp_list2,URC,URC25,The little girl who was sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+B_exp_list2,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+B_exp_list2,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+C_control_list1,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+C_control_list1,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+C_control_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+C_control_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+C_control_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+C_control_list1,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+C_control_list1,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+C_control_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+C_control_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+C_control_list1,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+C_control_list1,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+C_control_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+C_control_list1,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+C_control_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+C_control_list1,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+C_control_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+C_control_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+C_control_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+C_control_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+C_control_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+C_control_list1,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+C_control_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+C_control_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+C_control_list1,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+C_control_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+C_control_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+C_control_list1,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+C_control_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+C_control_list1,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+C_control_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+C_control_list1,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+C_control_list1,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+C_control_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+C_control_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+C_control_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+C_control_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+C_control_list1,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+C_control_list1,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+C_control_list1,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+C_control_list1,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+C_control_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+C_control_list1,URC,URC18,The helpful librarian who was lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+C_control_list1,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+C_control_list1,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+C_control_list1,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+C_control_list1,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+C_control_list1,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+C_control_list1,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+C_control_list1,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+C_control_list1,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+C_control_list1,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+C_control_list1,URC,URC35,The ailing mother who was prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+C_control_list1,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+C_control_list1,URC,URC3,The frightened kid who was moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+C_control_list1,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+C_control_list1,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+C_control_list1,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+C_control_list1,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+C_control_list1,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+C_control_list1,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+C_control_list1,URC,URC37,The rescue workers who were advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+C_control_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+C_control_list1,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+C_control_list1,URC,URC29,The little boy who was fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+C_control_list1,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+C_control_list1,URC,URC31,The young kid who was undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+C_control_list1,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+C_control_list1,URC,URC27,The bearded man who was shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+C_control_list1,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+C_control_list1,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+C_control_list1,URC,URC19,The skilled player who was passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+C_control_list1,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+C_control_list1,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+C_control_list1,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+C_control_list1,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+C_control_list1,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+C_control_list1,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+C_control_list1,URC,URC13,The skeptical editor who was read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+C_control_list1,URC,URC40,The avid reader who was suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+C_control_list1,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+C_control_list2,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+C_control_list2,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+C_control_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+C_control_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+C_control_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+C_control_list2,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+C_control_list2,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+C_control_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+C_control_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+C_control_list2,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+C_control_list2,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+C_control_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+C_control_list2,Filler,filler35,The celebrity redid her makeup before going on stage.,Did the celebrity redo her makeup after going on stage?,"No
+"
+C_control_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+C_control_list2,Filler,filler6,The arrogant man added the woman's contact information to his phone.,Did the man get the woman's phone number?,"Yes
+"
+C_control_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,Did the chairman speak for 45 minutes?,"No
+"
+C_control_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+C_control_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+C_control_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
+"
+C_control_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+C_control_list2,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+C_control_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+C_control_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+C_control_list2,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+C_control_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+C_control_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+C_control_list2,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+C_control_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+C_control_list2,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+C_control_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+C_control_list2,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+C_control_list2,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+C_control_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+C_control_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+C_control_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+C_control_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+C_control_list2,URC,URC32,The nervous wrestler who was hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+C_control_list2,URC,URC20,The angry workers who were warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+C_control_list2,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+C_control_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+C_control_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+C_control_list2,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+C_control_list2,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+C_control_list2,URC,URC10,My generous friend who was paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+C_control_list2,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+C_control_list2,URC,URC21,The blue pen that was rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+C_control_list2,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+C_control_list2,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+C_control_list2,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+C_control_list2,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+C_control_list2,URC,URC30,The poker player who was dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+C_control_list2,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+C_control_list2,URC,URC12,The sly merchant who was sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+C_control_list2,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+C_control_list2,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+C_control_list2,URC,URC23,The yellow frisbee that was dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+C_control_list2,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+C_control_list2,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+C_control_list2,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+C_control_list2,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+C_control_list2,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+C_control_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+C_control_list2,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+C_control_list2,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+C_control_list2,URC,URC17,The excited toddler who was built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+C_control_list2,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+C_control_list2,URC,URC5,The frazzled mother who was cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+C_control_list2,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+C_control_list2,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+C_control_list2,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+C_control_list2,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+C_control_list2,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+C_control_list2,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+C_control_list2,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+C_control_list2,URC,URC34,The energetic kid who was kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+C_control_list2,URC,URC7,The international student who was left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+C_control_list2,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+C_control_list2,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+C_control_list2,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+C_control_list2,URC,URC16,The evil genie who was served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+C_exp_list1,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+C_exp_list1,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+C_exp_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+C_exp_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+C_exp_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+C_exp_list1,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+C_exp_list1,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+C_exp_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+C_exp_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+C_exp_list1,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+C_exp_list1,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+C_exp_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+C_exp_list1,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+C_exp_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+C_exp_list1,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+C_exp_list1,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+C_exp_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+C_exp_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+C_exp_list1,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+C_exp_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+C_exp_list1,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+C_exp_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+C_exp_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+C_exp_list1,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+C_exp_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+C_exp_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+C_exp_list1,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+C_exp_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+C_exp_list1,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+C_exp_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+C_exp_list1,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+C_exp_list1,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+C_exp_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+C_exp_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+C_exp_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+C_exp_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+C_exp_list1,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+C_exp_list1,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+C_exp_list1,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+C_exp_list1,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+C_exp_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+C_exp_list1,URC,URC18,The helpful librarian who was lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+C_exp_list1,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+C_exp_list1,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+C_exp_list1,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+C_exp_list1,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+C_exp_list1,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+C_exp_list1,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+C_exp_list1,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+C_exp_list1,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+C_exp_list1,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+C_exp_list1,URC,URC35,The ailing mother who was prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+C_exp_list1,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+C_exp_list1,URC,URC3,The frightened kid who was moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+C_exp_list1,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+C_exp_list1,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+C_exp_list1,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+C_exp_list1,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+C_exp_list1,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+C_exp_list1,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+C_exp_list1,URC,URC37,The rescue workers who were advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+C_exp_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+C_exp_list1,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+C_exp_list1,URC,URC29,The little boy who was fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+C_exp_list1,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+C_exp_list1,URC,URC31,The young kid who was undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+C_exp_list1,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+C_exp_list1,URC,URC27,The bearded man who was shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+C_exp_list1,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+C_exp_list1,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+C_exp_list1,URC,URC19,The skilled player who was passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+C_exp_list1,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+C_exp_list1,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+C_exp_list1,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+C_exp_list1,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+C_exp_list1,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+C_exp_list1,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+C_exp_list1,URC,URC13,The skeptical editor who was read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+C_exp_list1,URC,URC40,The avid reader who was suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+C_exp_list1,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+C_exp_list2,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+C_exp_list2,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+C_exp_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+C_exp_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+C_exp_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+C_exp_list2,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+C_exp_list2,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+C_exp_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+C_exp_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+C_exp_list2,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+C_exp_list2,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+C_exp_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+C_exp_list2,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+C_exp_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+C_exp_list2,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+C_exp_list2,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+C_exp_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+C_exp_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+C_exp_list2,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+C_exp_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+C_exp_list2,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+C_exp_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+C_exp_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+C_exp_list2,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+C_exp_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+C_exp_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+C_exp_list2,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+C_exp_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+C_exp_list2,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+C_exp_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+C_exp_list2,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+C_exp_list2,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+C_exp_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+C_exp_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+C_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+C_exp_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+C_exp_list2,URC,URC32,The nervous wrestler who was hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+C_exp_list2,URC,URC20,The angry workers who were warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+C_exp_list2,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+C_exp_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+C_exp_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+C_exp_list2,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+C_exp_list2,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+C_exp_list2,URC,URC10,My generous friend who was paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+C_exp_list2,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+C_exp_list2,URC,URC21,The blue pen that was rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+C_exp_list2,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+C_exp_list2,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+C_exp_list2,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+C_exp_list2,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+C_exp_list2,URC,URC30,The poker player who was dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+C_exp_list2,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+C_exp_list2,URC,URC12,The sly merchant who was sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+C_exp_list2,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+C_exp_list2,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+C_exp_list2,URC,URC23,The yellow frisbee that was dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+C_exp_list2,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+C_exp_list2,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+C_exp_list2,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+C_exp_list2,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+C_exp_list2,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+C_exp_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+C_exp_list2,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+C_exp_list2,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+C_exp_list2,URC,URC17,The excited toddler who was built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+C_exp_list2,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+C_exp_list2,URC,URC5,The frazzled mother who was cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+C_exp_list2,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+C_exp_list2,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+C_exp_list2,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+C_exp_list2,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+C_exp_list2,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+C_exp_list2,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+C_exp_list2,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+C_exp_list2,URC,URC34,The energetic kid who was kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+C_exp_list2,URC,URC7,The international student who was left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+C_exp_list2,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+C_exp_list2,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+C_exp_list2,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+C_exp_list2,URC,URC16,The evil genie who was served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+D_control_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+D_control_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+D_control_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+D_control_list1,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+D_control_list1,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+D_control_list1,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+D_control_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+D_control_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+D_control_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+D_control_list1,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+D_control_list1,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+D_control_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+D_control_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+D_control_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+D_control_list1,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+D_control_list1,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+D_control_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+D_control_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+D_control_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+D_control_list1,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+D_control_list1,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+D_control_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+D_control_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+D_control_list1,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+D_control_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+D_control_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+D_control_list1,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+D_control_list1,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+D_control_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+D_control_list1,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+D_control_list1,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+D_control_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+D_control_list1,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+D_control_list1,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+D_control_list1,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+D_control_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+D_control_list1,URC,URC15,The hippie children who were rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+D_control_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+D_control_list1,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+D_control_list1,URC,URC2,The itchy cat that was scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+D_control_list1,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+D_control_list1,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+D_control_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+D_control_list1,URC,URC22,The comical teenager who was sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+D_control_list1,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+D_control_list1,URC,URC25,The little girl who was sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+D_control_list1,URC,URC30,The poker player who was dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+D_control_list1,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+D_control_list1,URC,URC12,The sly merchant who was sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+D_control_list1,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+D_control_list1,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+D_control_list1,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+D_control_list1,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+D_control_list1,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+D_control_list1,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+D_control_list1,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+D_control_list1,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+D_control_list1,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+D_control_list1,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+D_control_list1,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+D_control_list1,URC,URC23,The yellow frisbee that was dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+D_control_list1,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+D_control_list1,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+D_control_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+D_control_list1,URC,URC17,The excited toddler who was built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+D_control_list1,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+D_control_list1,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+D_control_list1,URC,URC5,The frazzled mother who was cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+D_control_list1,URC,URC34,The energetic kid who was kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+D_control_list1,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+D_control_list1,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+D_control_list1,URC,URC7,The international student who was left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+D_control_list1,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+D_control_list1,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+D_control_list1,URC,URC16,The evil genie who was served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+D_control_list1,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+D_control_list1,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+D_control_list1,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+D_control_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+D_control_list1,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+D_control_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+D_control_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+D_control_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+D_control_list2,Filler,filler19,The two students exchanged notes until they were caught by the teacher.,Were the students caught by the teacher?,"Yes
+"
+D_control_list2,Filler,filler14,Patrick woke up to find himself alone in the house.,Were there other people around when Patrick woke up?,"No
+"
+D_control_list2,Filler,filler28,The doctor mistook the symptoms for food poisoning.,Did the patient have food poisoning? ,"No
+"
+D_control_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+D_control_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+D_control_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+D_control_list2,Filler,filler15,The jogger accidentally crushed the flower underneath her foot.,Did the jogger intend to step on the flower?,"No
+"
+D_control_list2,Filler,filler21,Foreigners unfailingly fall in love with the place.,Did foreigners like the place?,"Yes
+"
+D_control_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+D_control_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+D_control_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+D_control_list2,Filler,filler13,The dog was confined to the living room while the vacuum was running.,Was the dog confined to the bedroom? ,"No
+"
+D_control_list2,Filler,filler7,The excited toddler blew out all the candles and wished for a pony.,Did the toddler want a pony?,"Yes
+"
+D_control_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
+"
+D_control_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+D_control_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
+"
+D_control_list2,Filler,filler59,The rabbit hopped across the street without getting hit by a car.,Did the rabbit make it to the other side safely?,"Yes
+"
+D_control_list2,Filler,filler22,The sparkles on the celebrity's dress glittered under the harsh lighting.,Did the outfit have sparkles on it? ,"Yes
+"
+D_control_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+D_control_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+D_control_list2,Filler,filler42,The seated boy rose up to answer the teacher's question on the chalkboard.,Did the boy get out of his seat?,"Yes
+"
+D_control_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+D_control_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+D_control_list2,Filler,filler39,The crossing deer froze in fear as headlights approached them on the road.,Were the deer scared?,"Yes
+"
+D_control_list2,Filler,filler56,The thieves stole the jewels but left everything else untouched.,Did the thieves steal everything?,"No
+"
+D_control_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+D_control_list2,Filler,filler5,The kindergartner bade good bye to her mother and ran to her friends.,Did the kindergartner bid good bye to her father?,"No
+"
+D_control_list2,Filler,filler50,The children shrank back from the clown in revulsion.,Did the children like the clown?,"No
+"
+D_control_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+D_control_list2,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+D_control_list2,URC,URC10,My generous friend who was paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+D_control_list2,URC,URC21,The blue pen that was rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+D_control_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+D_control_list2,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+D_control_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+D_control_list2,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+D_control_list2,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+D_control_list2,URC,URC32,The nervous wrestler who was hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+D_control_list2,URC,URC20,The angry workers who were warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+D_control_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+D_control_list2,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+D_control_list2,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+D_control_list2,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+D_control_list2,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+D_control_list2,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+D_control_list2,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+D_control_list2,URC,URC3,The frightened kid who was moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+D_control_list2,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+D_control_list2,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+D_control_list2,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+D_control_list2,URC,URC37,The rescue workers who were advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+D_control_list2,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+D_control_list2,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+D_control_list2,URC,URC29,The little boy who was fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+D_control_list2,URC,URC31,The young kid who was undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+D_control_list2,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+D_control_list2,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+D_control_list2,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+D_control_list2,URC,URC27,The bearded man who was shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+D_control_list2,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+D_control_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+D_control_list2,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+D_control_list2,URC,URC19,The skilled player who was passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+D_control_list2,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+D_control_list2,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+D_control_list2,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+D_control_list2,URC,URC13,The skeptical editor who was read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+D_control_list2,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+D_control_list2,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+D_control_list2,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+D_control_list2,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+D_control_list2,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+D_control_list2,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+D_control_list2,URC,URC40,The avid reader who was suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+D_control_list2,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+D_control_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+D_control_list2,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+D_exp_list1,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+D_exp_list1,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+D_exp_list1,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+D_exp_list1,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+D_exp_list1,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+D_exp_list1,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+D_exp_list1,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+D_exp_list1,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+D_exp_list1,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+D_exp_list1,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+D_exp_list1,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+D_exp_list1,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+D_exp_list1,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+D_exp_list1,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+D_exp_list1,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+D_exp_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+D_exp_list1,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+D_exp_list1,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+D_exp_list1,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+D_exp_list1,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+D_exp_list1,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+D_exp_list1,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+D_exp_list1,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+D_exp_list1,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+D_exp_list1,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+D_exp_list1,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+D_exp_list1,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+D_exp_list1,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+D_exp_list1,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+D_exp_list1,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+D_exp_list1,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+D_exp_list1,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+D_exp_list1,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+D_exp_list1,RRC,RRC10,My generous friend paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+D_exp_list1,RRC,RRC21,The blue pen rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+D_exp_list1,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+D_exp_list1,URC,URC15,The hippie children who were rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+D_exp_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+D_exp_list1,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+D_exp_list1,URC,URC2,The itchy cat that was scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+D_exp_list1,RRC,RRC32,The nervous wrestler hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+D_exp_list1,RRC,RRC20,The angry workers warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+D_exp_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+D_exp_list1,URC,URC22,The comical teenager who was sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+D_exp_list1,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+D_exp_list1,URC,URC25,The little girl who was sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+D_exp_list1,URC,URC30,The poker player who was dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+D_exp_list1,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+D_exp_list1,URC,URC12,The sly merchant who was sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+D_exp_list1,RRC,RRC3,The frightened kid moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+D_exp_list1,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+D_exp_list1,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+D_exp_list1,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+D_exp_list1,RRC,RRC37,The rescue workers advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+D_exp_list1,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+D_exp_list1,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+D_exp_list1,RRC,RRC29,The little boy fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+D_exp_list1,RRC,RRC31,The young kid undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+D_exp_list1,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+D_exp_list1,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+D_exp_list1,URC,URC23,The yellow frisbee that was dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+D_exp_list1,RRC,RRC27,The bearded man shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+D_exp_list1,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+D_exp_list1,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+D_exp_list1,URC,URC17,The excited toddler who was built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+D_exp_list1,RRC,RRC19,The skilled player passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+D_exp_list1,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+D_exp_list1,URC,URC5,The frazzled mother who was cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+D_exp_list1,URC,URC34,The energetic kid who was kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+D_exp_list1,RRC,RRC13,The skeptical editor read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+D_exp_list1,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+D_exp_list1,URC,URC7,The international student who was left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+D_exp_list1,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+D_exp_list1,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+D_exp_list1,URC,URC16,The evil genie who was served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+D_exp_list1,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+D_exp_list1,RRC,RRC40,The avid reader suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+D_exp_list1,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+D_exp_list1,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+D_exp_list1,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
+D_exp_list2,Filler,filler62,The teenagers swore to be best friends forever.,Did the teenagers think that they were going to continue being good friends?,"Yes
+"
+D_exp_list2,Filler,filler51,"Judy sank into the luxurious seat, enjoying the smell of leather.",Was the seat made of leather? ,"Yes
+"
+D_exp_list2,Filler,filler20,The hungry dog ate all of the food in the bowl.,Was there any food left in the bowl?,"No
+"
+D_exp_list2,RRC,RRC4,The excited girl bought the shiny toy played with it all day.,Did the girl like the toy?,"Yes
+"
+D_exp_list2,RRC,RRC14,The playful teenager baked the pie refused to share it with the others.,Did the teenager want to share the pie?,"No
+"
+D_exp_list2,RRC,RRC39,The frail woman refused the treatment decided to try her luck elsewhere.,Did the woman stop looking for treatment?,"No
+"
+D_exp_list2,Filler,filler47,The energetic cat batted at the dust specks floating in the air.,Was the cat lazy?,"No
+"
+D_exp_list2,Filler,filler30,The gardener mowed the wide lawns and seeded them.,Were the lawns large?,"Yes
+"
+D_exp_list2,Filler,filler4,John became more frustrated with each passing minute.,Did John get less frustrated over time?,"No
+"
+D_exp_list2,RRC,RRC1,The tired teacher brought the ungraded assignments was not looking forward to grading them.,Was the teacher excited to grade the papers?,"No
+"
+D_exp_list2,RRC,RRC6,The hospital patient bathed in his room read the newspaper constantly.,Did the patient like to read?,"Yes
+"
+D_exp_list2,Filler,filler63,The fish swam all around Jane and nipped at her legs.,Did the fish avoid Jane?,"No
+"
+D_exp_list2,Filler,filler25,The new manager undid most of the good work of his predecessor.,Did the previous manager do good work?,"Yes
+"
+D_exp_list2,Filler,filler49,The strict instructor confiscated the students' cell phones before class.,Was the instructor lenient?,"No
+"
+D_exp_list2,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
+"
+D_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+"
+D_exp_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
+"
+D_exp_list2,Filler,filler37,The basketball player's ankle swelled as he limped off the court.,Was the player injured?,"Yes
+"
+D_exp_list2,RRC,RRC18,The helpful librarian lent the frayed book took good care of it.,Was the book in good condition?,"No
+"
+D_exp_list2,RRC,RRC35,The ailing mother prepared a hot meal ate it gratefully before going to bed.,Was the mother in good health?,"No
+"
+D_exp_list2,RRC,RRC38,The sleepy volunteers offered the hot soup were glad to take a break to eat.,Were the volunteers happy to take a break?,"Yes
+"
+D_exp_list2,Filler,filler34,The woman eagerly waited to hear back from the dance company.,Was the woman looking forward to hearing some news?,"Yes
+"
+D_exp_list2,Filler,filler23,"Even though Joanna flew directly to Boston on Friday, she still missed the conference.",Was Joanna able to attend the conference?,"No
+"
+D_exp_list2,RRC,RRC11,The six volunteers taught the complicated procedure learned it very well.,Was the procedure simple?,"No
+"
+D_exp_list2,Filler,filler31,The babysitter ran frantically after the misbehaving children in the park.,Were the children well behaved?,"No
+"
+D_exp_list2,Filler,filler64,Lily trod on a lot of toes when she joined the company.,Did Lily upset people when she joined the company?,Yes
+D_exp_list2,RRC,RRC9,The experienced soldiers asked about the dangers conducted the midnight raid.,Was there a raid?,"Yes
+"
+D_exp_list2,RRC,RRC8,The experienced waitress cooked the grilled chicken sent her food back.,Was the chicken fried?,"No
+"
+D_exp_list2,Filler,filler57,The secret society framed a local man for all of their crimes.,Was the man guilty?,"No
+"
+D_exp_list2,RRC,RRC36,The young clerk handed the long report filed it right away.,Did the clerk take a long time to file the report?,"No
+"
+D_exp_list2,RRC,RRC33,The ferocious lions attacked during the day were unable to escape the hunters.,Did the hunters catch the lions?,"Yes
+"
+D_exp_list2,Filler,filler16,Peter did all the dishes before putting his children to bed.,Did Peter do the dishes after putting the children bed?,"No
+"
+D_exp_list2,Filler,filler18,They drew lots to settle who should make dinner that day.,Did they draw lots to decide who should make lunch?,"No
+"
+D_exp_list2,URC,URC10,My generous friend who was paid for the tickets bought popcorn for everyone.,Was the friend uncharitable?,"No
+"
+D_exp_list2,URC,URC21,The blue pen that was rested on the desk wound up getting stolen.,Was the pen blue?,"Yes
+"
+D_exp_list2,Filler,filler58,The disappointed teacher graded the final exams very harshly.,Did the teacher give lots of high grades?,"No
+"
+D_exp_list2,RRC,RRC15,The hippie children rinsed in the river were later taken berry-picking.,Were the children rinsed in a pond?,"No
+"
+D_exp_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
+"
+D_exp_list2,Filler,filler27,Anita lay on the grass and looked up at the stars.,Was Anita outside? ,"Yes
+"
+D_exp_list2,RRC,RRC2,The itchy cat scratched behind its ears purred loudly and happily in satisfaction.,Was the cat pleased?,"Yes
+"
+D_exp_list2,URC,URC32,The nervous wrestler who was hurried through the stands hadn't seen his opponent.,Did the wrestler know his opponent?,"No
+"
+D_exp_list2,URC,URC20,The angry workers who were warned about low wages decided to file complaints.,Were the workers happy with their wages?,"No
+"
+D_exp_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
+"
+D_exp_list2,RRC,RRC22,The comical teenager sent the curious package was excited to open it.,Was the teenager eager to open the package?,"Yes
+"
+D_exp_list2,Filler,filler60,The businessman strode purposefully into the meeting.,Was the businessman determined?,"Yes
+"
+D_exp_list2,RRC,RRC25,The little girl sat on the couch fell down and started crying.,Did the girl remain on the couch?,"No
+"
+D_exp_list2,RRC,RRC30,The poker player dealt the cards was frustrated with his bad hand.,Was the player happy with the cards he got?,"No
+"
+D_exp_list2,Filler,filler11,The hiker was overcome by the heat and needed to rest for a few minutes.,Did the hiker need a break?,"Yes
+"
+D_exp_list2,RRC,RRC12,The sly merchant sold the faulty devices was angry with himself for not noticing.,Were the devices defective?,"Yes
+"
+D_exp_list2,URC,URC3,The frightened kid who was moved through the crowd got separated from Jane.,Was the kid scared?,"Yes
+"
+D_exp_list2,Filler,filler10,The sound of music attracted a number of guests to the cafe.,Was the music coming from the cafe?,"Yes
+"
+D_exp_list2,Filler,filler9,The married couple arose before dawn in order to prepare for the trip.,Did the couple wake up early?,"Yes
+"
+D_exp_list2,Filler,filler26,Maria went upstairs and changed into jeans and a fitted blouse.,Did Maria change into a dress?,"No
+"
+D_exp_list2,URC,URC37,The rescue workers who were advised about the avalanche decided to stand by regardless.,Did the rescue workers know about the avalanche?,"Yes
+"
+D_exp_list2,Filler,filler46,The talented lawyer argued that his client had never been to the scene of the crime.,Was the lawyer talented?,"Yes
+"
+D_exp_list2,Filler,filler3,A different kind of fire arose within Andrew as he thought about the new idea.,Was Andrew passionate about the idea?,"Yes
+"
+D_exp_list2,URC,URC29,The little boy who was fed the rice crackers looked like he wanted to eat something else.,Did the boy want to eat the crackers?,"Yes
+"
+D_exp_list2,URC,URC31,The young kid who was undressed in a hurry got ready to go to school.,Was the kid going to his friend's house?,"No
+"
+D_exp_list2,Filler,filler1,The new student talked to all of her new classmates on the playground during recess.,Were there some classmates the new student did not talk to?,"No
+"
+D_exp_list2,Filler,filler32,The friends studied together all day for an upcoming exam in their hardest class.,Did the friends study independently?,"No
+"
+D_exp_list2,RRC,RRC23,The yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee stay on the roof?,"No
+"
+D_exp_list2,URC,URC27,The bearded man who was shaved two weeks ago liked his stylish new look.,Was the man disappointed with his new look?,"No
+"
+D_exp_list2,Filler,filler45,The impatient brother immediately took the toy away from his younger sister.,Did the brother like to share?,"No
+"
+D_exp_list2,Filler,filler24,The jogger inhaled deeply in an attempt to regain his breath.,Was the jogger out of breath?,"Yes
+"
+D_exp_list2,RRC,RRC17,The excited toddler built the lego house played with it all day.,Did the toddler like the lego house?,"Yes
+"
+D_exp_list2,URC,URC19,The skilled player who was passed the soccer ball failed to score a goal.,Did the player get a point?,"No
+"
+D_exp_list2,Filler,filler8,The girl apologized to her parents for having stayed out past curfew.,Was the girl caught staying out late?,"Yes
+"
+D_exp_list2,RRC,RRC5,The frazzled mother cut a cake slice sat down and ate it gratefully.,Was the mother exhausted?,"Yes
+"
+D_exp_list2,RRC,RRC34,The energetic kid kicked the ball caught it with one hand.,Was the kid lethargic?,"No
+"
+D_exp_list2,URC,URC13,The skeptical editor who was read the story agreed reluctantly that it was very good.,Did the editor expect to like the story?,"No
+"
+D_exp_list2,Filler,filler33,When the driver eventually overtook the last truck he pulled over to the inside lane.,Did the driver overtake all the trucks?,"Yes
+"
+D_exp_list2,RRC,RRC7,The international student left the warm jacket was grateful for it in the winter.,Was the winter cold?,"Yes
+"
+D_exp_list2,Filler,filler12,The spy came very quietly and secretly to escape the soldiers.,Did the spy make a lot of noise?,"No
+"
+D_exp_list2,Filler,filler44,The knight from the storybook slew a dragon to get into the castle.,Did the knight kill the dragon?,"Yes
+"
+D_exp_list2,RRC,RRC16,The evil genie served the golden figs went into a trance.,Did the genie eat the figs?,"Yes
+"
+D_exp_list2,Filler,filler48,Adam's hand shook slightly as he inserted the key into the lock.,Was Adam's hand very stable?,"No
+"
+D_exp_list2,URC,URC40,The avid reader who was suggested the unusual book enjoyed reading it very much.,Did the reader like the book?,Yes
+D_exp_list2,Filler,filler61,The students eagerly participated in the annual athletics festival.,Did the students want to participate?,"Yes
+"
+D_exp_list2,Filler,filler43,The young boy sang a song that showcased his remarkable talent.,Was the boy talented?,"Yes
+"
+D_exp_list2,Filler,filler29,The singer practiced all day until she could hit the high notes every time.,Was the singer able to hit the high notes without practicing?,"No
+"
