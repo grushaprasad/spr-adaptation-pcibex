@@ -1,10 +1,10 @@
 PennController.DebugOff();
 PennController.ResetPrefix(null);
-PennController.Sequence("intro", "counter",  "instructions", "practiceBeginningScreen", "SeperatorScreen_1", "practice", "SeperatorScreen_2", "experiment", "demographic", "participant_observations","feed_back_request", "send_results", "end_of_exp");
+PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "SeperatorScreen_1", "practice", "SeperatorScreen_2", "experiment", "demographic", "participant_observations","feed_back_request", "send_results", "end_of_exp");
 //Set Participant Counter
 SetCounter("counter","inc", 1);
 //Set up Intro
-PennController("intro",
+PennController("consent",
     newHtml("intro", "intro.html")
         .settings.log() //collect Consent
         .print()
@@ -48,7 +48,7 @@ newTrial("SeperatorScreen_1",
         .print()
         .center()
     ,
-    newKey("key_3", " ")
+    newKey("key_3", "")
         .wait()
     ,
     getText("proceed_text")
@@ -62,6 +62,7 @@ Template("practice.csv", row =>
             .wait()
         ,
         newController("DashedSentence", {s : row.Sentence})
+            .css("font-size", "30px")
             .print()
             .center()
             .log()
@@ -73,9 +74,9 @@ Template("practice.csv", row =>
             .print()
             .center()
         ,
-        newButton("Yes_Button_1", "Yes")
+        newButton("Yes_Button_1", "Yes (Z)")
         ,
-        newButton("No_Button_1", "No")
+        newButton("No_Button_1", "No (M)")
         ,
         newCanvas("canvas", 500, 100)
             .add( 175, 50, getButton("Yes_Button_1").print().css("font-size", "16px"))
@@ -129,6 +130,7 @@ Template("stimuli.csv", row =>
             .wait()
         ,
         newController("DashedSentence", {s : row.Sentence})
+            .css("font-size", "30px")
             .print()
             .center()
             .log()
