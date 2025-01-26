@@ -130,7 +130,7 @@ A_control_list1,Filler,filler55,The chairman spoke for half an hour at the meeti
 "
 A_control_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
 "
-A_control_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+A_control_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 A_control_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
 "
@@ -289,7 +289,7 @@ A_control_list2,Filler,filler55,The chairman spoke for half an hour at the meeti
 "
 A_control_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
 "
-A_control_list2,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+A_control_list2,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 A_control_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
 "
@@ -447,7 +447,7 @@ A_exp_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,
 "
 A_exp_list1,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
 "
-A_exp_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+A_exp_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 A_exp_list1,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
 "
@@ -605,7 +605,7 @@ A_exp_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,
 "
 A_exp_list2,Filler,filler2,The ornate clock chimed loudly every time it struck a new hour.,Was the clock working?,"Yes
 "
-A_exp_list2,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+A_exp_list2,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 A_exp_list2,Filler,filler17,The student pretended to be sick until their mother left the room.,Was the student really sick?,"No
 "
@@ -765,7 +765,7 @@ B_control_list1,Filler,filler55,The chairman spoke for half an hour at the meeti
 "
 B_control_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
 "
-B_control_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+B_control_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 B_control_list1,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
 "
@@ -923,7 +923,7 @@ B_control_list2,Filler,filler55,The chairman spoke for half an hour at the meeti
 "
 B_control_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
 "
-B_control_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+B_control_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 B_control_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
 "
@@ -1081,7 +1081,7 @@ B_exp_list1,Filler,filler55,The chairman spoke for half an hour at the meeting.,
 "
 B_exp_list1,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
 "
-B_exp_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+B_exp_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 B_exp_list1,URC,URC28,The competent administrator who was delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
 "
@@ -1239,7 +1239,7 @@ B_exp_list2,Filler,filler55,The chairman spoke for half an hour at the meeting.,
 "
 B_exp_list2,Filler,filler40,The clever siblings knew the best strategies to stay out of trouble.,Were the siblings foolish?,"No
 "
-B_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+B_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 B_exp_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
 "
@@ -1332,7 +1332,7 @@ C_control_list1,Filler,filler58,The disappointed teacher graded the final exams 
 "
 C_control_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
 "
-C_control_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+C_control_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 C_control_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
 "
@@ -1490,7 +1490,7 @@ C_control_list2,Filler,filler58,The disappointed teacher graded the final exams 
 "
 C_control_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
 "
-C_control_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+C_control_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 C_control_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
 "
@@ -1648,7 +1648,7 @@ C_exp_list1,Filler,filler58,The disappointed teacher graded the final exams very
 "
 C_exp_list1,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
 "
-C_exp_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+C_exp_list1,URC,URC24,The talented musician who was played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 C_exp_list1,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
 "
@@ -1806,7 +1806,7 @@ C_exp_list2,Filler,filler58,The disappointed teacher graded the final exams very
 "
 C_exp_list2,Filler,filler38,The contestants each ate over ten hot dogs as part of a speed-eating competition.,Were over ten hot dogs eaten?,"Yes
 "
-C_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+C_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 C_exp_list2,Filler,filler53,The family cheerfully decorated the house just in time for the holidays.,Did the family enjoy decorating the house?,"Yes
 "
@@ -2243,7 +2243,7 @@ D_exp_list1,Filler,filler49,The strict instructor confiscated the students' cell
 "
 D_exp_list1,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
 "
-D_exp_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+D_exp_list1,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 D_exp_list1,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
 "
@@ -2401,7 +2401,7 @@ D_exp_list2,Filler,filler49,The strict instructor confiscated the students' cell
 "
 D_exp_list2,RRC,RRC26,The young children stopped in the hallway were following the adults.,Were the children following someone?,"Yes
 "
-D_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song>,"Yes
+D_exp_list2,RRC,RRC24,The talented musician played the beautiful song applauded in delight.,Did the musician like the song?,"Yes
 "
 D_exp_list2,RRC,RRC28,The competent administrator delivered the message made the necessary arrangements.,Was the administrator well-prepared?,"Yes
 "
