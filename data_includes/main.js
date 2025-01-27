@@ -1,6 +1,6 @@
 PennController.DebugOff();
 PennController.ResetPrefix(null);
-PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "SeperatorScreen_1", "practice", "SeperatorScreen_2", "experiment", "demographic", "participant_observations","feed_back_request", "send_results", "end_of_exp");
+PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "practice", "experimentBeginningScreen", "experiment", "demographic", "participant_observations","feed_back_request", "send_results", "end_of_exp");
 //Set Participant Counter
 SetCounter("counter","inc", 1);
 //Set up Intro
@@ -42,18 +42,19 @@ PennController("practiceBeginningScreen",
                 .failure( getHtml("practiceBeginningScreen").warn() )
         )
 );
-//Set up Seperator Screen
-newTrial("SeperatorScreen_1",
-    newText("proceed_text", "On the next screen, pressing <b>spacebar</b> will reveal the words in the sentence one word at a time. Press any key now to start the experiment.")
-        .print()
-        .center()
-    ,
-    newKey("key_3", "")
-        .wait()
-    ,
-    getText("proceed_text")
-        .remove()
-);
+// //Set up Seperator Screen
+// newTrial("SeperatorScreen_1",
+//     newText("proceed_text", "On the next screen, pressing <b>spacebar</b> will reveal the words in the sentence one word at a time. Press any key now to start the experiment.")
+//         .css("font-size", "25px")
+//         .print()
+//         .center()
+//     ,
+//     newKey("key_3", "")
+//         .wait()
+//     ,
+//     getText("proceed_text")
+//         .remove()
+// );
 //Generate the exercises to allow the participant to practice before the experiment
 Template("practice.csv", row =>
   newTrial("practice",
@@ -104,22 +105,16 @@ Template("practice.csv", row =>
     
 );
 
-newTrial("SeperatorScreen_2",
-    newText("endOfExerciseText1", "<p>You have reached the end of Practice. On to the real experiment! As a reminder, press <b>z</b> if the answer is yes and <b>m</b> if the answer is no.</p>")
-        .print()
-        .center()
-    ,
-    newText("endOfExerciseText2", "<p>Press any key to begin.</p>")
+PennController("experimentBeginningScreen", 
+    newHtml("experimentBeginningScreen", "begin_of_experiment.html")
+        .settings.log() 
         .print()
     ,
-    newKey("key_4", " ")
-        .wait()
-    ,
-    getText("endOfExerciseText1")
-        .remove()
-    ,
-    getText("endOfExerciseText2")
-        .remove()
+    newKey("key_3", "")
+        .wait(
+            getHtml("experimentBeginningScreen").test.complete()
+                .failure( getHtml("experimentBeginningScreen").warn() )
+        )
 );
 
 //Running the actual Experiment now using the main CSV file
