@@ -1,5 +1,5 @@
 .PennController {
-/*    width: 40em !important;*/
-    width: 80em !important;
+/*    width: 40em !important;*/ 
+    width: 80em !important; /* this seems to work for all sentences in the current experiment. Not sure about commenting out the margin-left  */
 /*    margin-left: calc(50vw - 20em);*/
 }
