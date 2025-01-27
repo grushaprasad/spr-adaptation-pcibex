@@ -5,7 +5,7 @@ PennController.Sequence("consent", "counter",  "instructions", "practiceBeginnin
 SetCounter("counter","inc", 1);
 //Set up Intro
 PennController("consent",
-    newHtml("intro", "intro.html")
+    newHtml("consent", "colgate_consent_prolific.html")
         .settings.log() //collect Consent
         .print()
     ,
@@ -13,8 +13,8 @@ PennController("consent",
         .settings.css("font-size", "larger")
         .print()
         .wait(
-            getHtml("intro").test.complete()
-                .failure(getHtml("intro").warn())
+            getHtml("consent").test.complete()
+                .failure(getHtml("consent").warn())
         )
 );
 
@@ -70,7 +70,7 @@ Template("practice.csv", row =>
             .remove()
         ,
         newText("Question", row.Question)
-            .css("font-size", "1.25em")
+            .css("font-size", "1.5em")
             .print()
             .center()
         ,
