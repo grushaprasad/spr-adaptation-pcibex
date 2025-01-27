@@ -1,8 +1,10 @@
 <div style="width: 50em; padding-right: 50px;padding-left: 50px; font-size: 1.5em">
 
-	<h3><b>Demographic information:</b></h3>
+	<h2><b>Demographic survey:</b></h2>
 
 	<p>Please answer the following questions. </p>
+
+	<h3><b>General demographic information</b></h3>
 
 	<p>
 	<tr>
@@ -18,42 +20,79 @@
 	  <input type="radio" name="gender" value="female" class="obligatory"> Female<br>
 	  <input type="radio" name="gender" value="other" class="obligatory"> Other
 	</form>
+
+	<h3><b>Language background</b></h3>
+
+	<p> 
+	Are you a native speaker of English?
+	</p>
+	<form action="" class = "obligatory">
+	  <input type="radio" name="native_eng" value="Yes" class="obligatory"> Yes<br>
+	  <input type="radio" name="native_eng" value="No" class="obligatory"> No<br>
+	</form>
 	
 	<p> 
-	Is English your first language?
+	Was English the first language you were exposed to?
 	</p>
 	<form action="" class = "obligatory">
 	  <input type="radio" name="firstlang_eng" value="Yes" class="obligatory"> Yes<br>
 	  <input type="radio" name="firstlang_eng" value="No" class="obligatory"> No<br>
 	</form>
-	<p> 
+<!-- 	<p> 
 		Do you speak/sign any language(s) other than English? If yes, please list the language(s) and your level of proficiency 
 	</p>
     <textarea rows="5" cols="40" name="feedback"> </textarea>
+    <p> -->
+	
     <p>
-	<b>If your first language is NOT English </b>:
-    <p>
-    What is your first language?
+    <b>If you answered no in the previous question </b>, what was the first language you were exposed to?
 	<tr>
   		<td><input name="first_lang" type="text" size="30" /></td>
 	</tr>
     </p>
-    When did you learn English?
+
+    <p>
+    At what age did you start learning English?
     <form action="">
-	  <input type="radio" name="age" value="<5"> Before the age of 5<br>
-	  <input type="radio" name="age" value="5-10"> Between the ages 5 and 10<br>
-	  <input type="radio" name="age" value="<10"> After age 10<br>
+	  <input type="radio" name="age_english" value="<5"> Before the age of 5<br>
+	  <input type="radio" name="age_english" value="5-10"> Between the ages 5 and 10<br>
+	  <input type="radio" name="age_english" value="10-15"> Between 10 and 15<br>
+	  <input type="radio" name="age_english" value=">15"> After 15<br>
 
 	</form>
-    How proficient are you? 
-    <form action="", class = "likert">
-	  <input type="radio" name="prof" value="1"> Not at all proficient<br>
-	  <input type="radio" name="prof" value="2"> A little proficient<br>
-	  <input type="radio" name="prof" value="3"> Moderately proficient<br>
-	  <input type="radio" name="prof" value="4"> Quite proficient<br>
-	  <input type="radio" name="prof" value="4"> Very proficient<br>
+	</p>
 
+	<p>
+    What percentage of the language you use at <b>home</b> is English?
+    <form action="">
+	  <input type="radio" name="home" value="<20"> 0%-20%<br>
+	  <input type="radio" name="home" value="20-40"> 20%-40%<br>
+	  <input type="radio" name="home" value="40-60"> 40%-60%<br>
+	  <input type="radio" name="home" value="60-80"> 60%-80%<br>
+	  <input type="radio" name="home" value="80-100"> 80%-100%<br>
 	</form>
+	</p>
+
+	 What percentage of the language you use at <b>school/work</b> is English?
+    <form action="">
+	  <input type="radio" name="work" value="<20"> 0%-20%<br>
+	  <input type="radio" name="work" value="20-40"> 20%-40%<br>
+	  <input type="radio" name="work" value="40-60"> 40%-60%<br>
+	  <input type="radio" name="work" value="60-80"> 60%-80%<br>
+	  <input type="radio" name="work" value="80-100"> 80%-100%<br>
+	</form>
+	</p>
+
+	What percentage of the language you use  <b>during social interactions</b> is English?
+    <form action="">
+	  <input type="radio" name="social" value="<20"> 0%-20%<br>
+	  <input type="radio" name="social" value="20-40"> 20%-40%<br>
+	  <input type="radio" name="social" value="40-60"> 40%-60%<br>
+	  <input type="radio" name="social" value="60-80"> 60%-80%<br>
+	  <input type="radio" name="social" value="80-100"> 80%-100%<br>
+	</form>
+	</p>
+
 </div>
 
 
