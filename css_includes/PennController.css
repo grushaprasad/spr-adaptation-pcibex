@@ -1,5 +1,5 @@
 .PennController {
 /*    width: 40em !important;*/
     width: 100em !important;
-    margin-left: calc(50vw - 20em);
+    margin-left: calc(100vw - 20em);
 }
