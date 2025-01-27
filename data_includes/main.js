@@ -62,7 +62,7 @@ Template("practice.csv", row =>
             .wait()
         ,
         newController("DashedSentence", {s : row.Sentence})
-            .css("font-size", "30px")
+            .css("font-size", "1.25em")
             .print()
             .center()
             .log()
@@ -70,7 +70,7 @@ Template("practice.csv", row =>
             .remove()
         ,
         newText("Question", row.Question)
-            .css("font-size", "30px")
+            .css("font-size", "1.25em")
             .print()
             .center()
         ,
