@@ -62,7 +62,7 @@ Template("practice.csv", row =>
             .wait()
         ,
         newController("DashedSentence", {s : row.Sentence})
-            .css("font-size", "1.25em")
+            .css("font-size", "25px")
             .print()
             .center()
             .log()
@@ -70,7 +70,7 @@ Template("practice.csv", row =>
             .remove()
         ,
         newText("Question", row.Question)
-            .css("font-size", "1.5em")
+            .css("font-size", "25px")
             .print()
             .center()
         ,
@@ -130,7 +130,7 @@ Template("stimuli.csv", row =>
             .wait()
         ,
         newController("DashedSentence", {s : row.Sentence})
-            .css("font-size", "30px")
+            .css("font-size", "25px")
             .print()
             .center()
             .log()
@@ -138,7 +138,7 @@ Template("stimuli.csv", row =>
             .remove()
         ,
         newText("Question_2", row.Question)
-            .css("font-size", "30px")
+            .css("font-size", "25px")
             .print()
             .center()
         ,
