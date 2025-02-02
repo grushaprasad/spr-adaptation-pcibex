@@ -4,22 +4,6 @@
 
 	<p>Please answer the following questions. </p>
 
-	<h3><b>General demographic information</b></h3>
-
-	<p>
-	<tr>
-  	<td>Age: </td><td><input name="age" type="text" size="30" class="obligatory" /></td>
-	</tr>
-	</p>
-	
-	<b>
-	Gender: 
-	</b>
-	<form action="">
-	  <input type="radio" name="gender" value="male" class="obligatory"> Male<br>
-	  <input type="radio" name="gender" value="female" class="obligatory"> Female<br>
-	  <input type="radio" name="gender" value="other" class="obligatory"> Other
-	</form>
 
 	<h3><b>Language background</b></h3>
 
@@ -54,10 +38,10 @@
     <p>
     At what age did you start learning English?
     <form action="">
-	  <input type="radio" name="age_english" value="<5"> Before the age of 5<br>
-	  <input type="radio" name="age_english" value="5-10"> Between the ages 5 and 10<br>
-	  <input type="radio" name="age_english" value="10-15"> Between 10 and 15<br>
-	  <input type="radio" name="age_english" value=">15"> After 15<br>
+	  <input type="radio" name="age_english" value="<5" class="obligatory"> Before the age of 5<br>
+	  <input type="radio" name="age_english" value="5-10" class="obligatory"> Between the ages 5 and 10<br>
+	  <input type="radio" name="age_english" value="10-15" class="obligatory"> Between 10 and 15<br>
+	  <input type="radio" name="age_english" value=">15" class="obligatory"> After 15<br>
 
 	</form>
 	</p>
@@ -83,7 +67,7 @@
 	</form>
 	</p>
 
-	What percentage of the language you use  <b>during social interactions</b> is English?
+	What percentage of the language you use <b>during social interactions</b> is English?
     <form action="">
 	  <input type="radio" name="social" value="<20"> 0%-20%<br>
 	  <input type="radio" name="social" value="20-40"> 20%-40%<br>
@@ -92,6 +76,23 @@
 	  <input type="radio" name="social" value="80-100"> 80%-100%<br>
 	</form>
 	</p>
+
+	<h3><b>Other demographic information</b></h3>
+
+	<p>
+	<tr>
+  	<td>Age: </td><td><input name="age" type="text" size="30" /></td>
+	</tr>
+	</p>
+	
+	<b>
+	Gender: 
+	</b>
+	<form action="">
+	  <input type="radio" name="gender" value="male"> Male<br>
+	  <input type="radio" name="gender" value="female"> Female<br>
+	  <input type="radio" name="gender" value="other"> Other
+	</form>
 
 </div>
 
