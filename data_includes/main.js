@@ -137,9 +137,9 @@ Template("stimuli.csv", row =>
             .print()
             .center()
         ,
-        newButton("Yes_Button_2", "Yes")
+        newButton("Yes_Button_2", "Yes (Z)")
         ,
-        newButton("No_Button_2", "No")
+        newButton("No_Button_2", "No (M)")
         ,
         newVar("RT_response").global().set(v_rt => Date.now())
         ,
