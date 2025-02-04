@@ -235,4 +235,4 @@ newTrial("end_of_exp",
             .failure(getHtml("end_of_exp").warn()))
 ).setOption("countsForProgressBar",false);
 
-DebugOff();
+PennController.DebugOff();
