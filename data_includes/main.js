@@ -1,4 +1,4 @@
-PennController.DebugOff();
+// PennController.DebugOff();
 PennController.ResetPrefix(null);
 PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "practice", "experimentBeginningScreen", "experiment", "participant_observations", "demographic","feed_back_request", "send_results", "end_of_exp");
 //Set Participant Counter
@@ -234,5 +234,3 @@ newTrial("end_of_exp",
     newButton().wait(getHtml("end_of_exp").test.complete()
             .failure(getHtml("end_of_exp").warn()))
 ).setOption("countsForProgressBar",false);
-
-PennController.DebugOff();
