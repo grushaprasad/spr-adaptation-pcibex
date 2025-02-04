@@ -234,3 +234,5 @@ newTrial("end_of_exp",
     newButton().wait(getHtml("end_of_exp").test.complete()
             .failure(getHtml("end_of_exp").warn()))
 ).setOption("countsForProgressBar",false);
+
+DebugOff();
