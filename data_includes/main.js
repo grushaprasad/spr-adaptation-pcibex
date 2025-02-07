@@ -239,7 +239,7 @@ PennController.SendResults("send_results").setOption("countsForProgressBar",fals
 //    newButton().wait(getHtml("end_of_exp").test.complete()
 //            .failure(getHtml("end_of_exp").warn()))
 //).setOption("countsForProgressBar",false);
-newTrial( "final" ,
+newTrial( "end_of_exp" ,
      newText("<p>Thank you for your participation!</p>")
           .center()
           .print()
