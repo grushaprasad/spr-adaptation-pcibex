@@ -5,7 +5,8 @@ Header(
 )
 .log( "sonaID" , GetURLParameter("id") )
 DebugOff()
-PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "practice", "experimentBeginningScreen", "experiment", "participant_observations", "demographic","feed_back_request", "send_results", "end_of_exp");
+PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "practice", "experimentBeginningScreen",  "participant_observations", "demographic","feed_back_request", "send_results", "end_of_exp");
+//PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "practice", "experimentBeginningScreen", "experiment", "participant_observations", "demographic","feed_back_request", "send_results", "end_of_exp");
 //Set Participant Counter
 SetCounter("counter","inc", 1);
 //Set up Intro
