@@ -228,7 +228,7 @@ PennController("feed_back_request",
 PennController.SendResults("send_results").setOption("countsForProgressBar",false);
 //Ending the Experiment
 newTrial("end_of_exp",
-    newHtml("end_of_exp", "end_of_exp.html")
+    newHtml("end_of_exp", "end_of_exp_mturk.html")
         .settings.log()
         .print()
     ,
