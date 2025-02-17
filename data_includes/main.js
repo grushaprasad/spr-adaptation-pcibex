@@ -6,7 +6,7 @@ PennController.Sequence("consent", "counter",  "instructions", "practiceBeginnin
 SetCounter("counter","inc", 1);
 //Set up Intro
 PennController("consent",
-    newHtml("consent", "ucdavis_consent.html")
+    newHtml("consent", "colgate_consent_prolific.html")
         .settings.log() //collect Consent
         .print()
     ,
