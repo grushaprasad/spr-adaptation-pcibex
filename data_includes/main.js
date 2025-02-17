@@ -1,11 +1,12 @@
-PennController.DebugOff();
+// PennController.DebugOff();
 PennController.ResetPrefix(null);
+DebugOff()
 PennController.Sequence("consent", "counter",  "instructions", "practiceBeginningScreen", "practice", "experimentBeginningScreen", "experiment", "participant_observations", "demographic","feed_back_request", "send_results", "end_of_exp");
 //Set Participant Counter
 SetCounter("counter","inc", 1);
 //Set up Intro
 PennController("consent",
-    newHtml("consent", "ucdavis_consent.html")
+    newHtml("consent", "colgate_consent_prolific.html")
         .settings.log() //collect Consent
         .print()
     ,
